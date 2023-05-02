@@ -7,7 +7,7 @@
 ### https://chatify-49.web.app/
 
 <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+  <img alt="Demo" src="./Assets/chatify1.png" />
 </div>
 
 </div>
