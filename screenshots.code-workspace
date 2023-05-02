@@ -1,8 +1,6 @@
 {
 	"folders": [
-		{
-			"path": "screenshots"
-		},
+		{ "path": "screenshots" },
 		{
 			"path": "dyte-react-native-sample-app"
 		}
